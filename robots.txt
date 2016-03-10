@@ -1,0 +1,10 @@
+Sitemap: http://inlovelocks.com/sitemap.xml
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+User-agent: *
+Disallow: /
